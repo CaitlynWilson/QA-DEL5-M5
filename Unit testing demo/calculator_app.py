@@ -13,4 +13,6 @@ class Calculator:
         return self.a * self.b 
 
     def get_quotient(self):
-        return self.a / self.b    
+        return self.a / self.b   
+        
+         
