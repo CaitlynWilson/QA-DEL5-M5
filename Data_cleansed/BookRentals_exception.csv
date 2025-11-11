@@ -1,0 +1,10 @@
+Id,Books,Book checkout,Book Returned,Days allowed to borrow,Customer ID,Book checkout clean,Book checkout valid,Book Returned clean,Book Returned valid,DaysBorrowed,is_na,is_dup
+17,The Bloody Chamber,"""32/05/2023""",04/06/2023,2 weeks,3.0,32/05/2023,False,04/06/2023,True,,,
+2,Lord of the rings the two towers,"""24/03/2023""",21/03/2023,2 weeks,2.0,2023-03-24,True,2023-03-21,True,-3.0,False,False
+3,Lord of the rings the return of the kind,"""29/03/2023""",25/03/2023,2 weeks,3.0,2023-03-29,True,2023-03-25,True,-4.0,False,False
+6,Little Women,"""02/04/2023""",01/05/2023,2 weeks,1.0,2023-02-04,True,2023-01-05,True,-30.0,False,False
+7,IT,"""10/04/2063""",03/04/2023,2 weeks,6.0,2063-10-04,True,2023-03-04,True,-14824.0,False,False
+8,Misery ,"""15/04/2023""",03/04/2023,2 weeks,7.0,2023-04-15,True,2023-03-04,True,-42.0,False,False
+12,Little Women,"""02/04/2023""",01/05/2023,2 weeks,1.0,2023-02-04,True,2023-01-05,True,-30.0,False,True
+16,Dark Tales,"""15/05/2023""",01/06/2023,2 weeks,2.0,2023-05-15,True,2023-01-06,True,-129.0,False,False
+21,,"""01/06/2023""",05/06/2023,2 weeks,,2023-01-06,True,2023-05-06,True,120.0,True,False
